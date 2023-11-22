@@ -1,8 +1,5 @@
 # MATH1005 - 复变函数与积分变换
 
-[返回上一页]()
-[返回主页]()
-
 ![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
 ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin)
 

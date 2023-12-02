@@ -11,8 +11,8 @@
 
 - 教师1：Bao Gejun
   - 校用教材《复变函数与积分变换 简明教程》的编者之一
-  - 关于他的描述，在 [微积分B](https://github.com/HITSZ-OpenAuto/MATH1015B) 中已经提到过了。不会考勤。
-  - 超级好的老师，都给我去听他的课😭。平时和考前都会安排线下答疑。
+  - 关于他的描述，在 [微积分B](https://hoa.moe/docs/fresh-spring/math1015b/) 中已经提到过了。不会考勤。
+  > 超级好的老师，都给我去听他的课😭。平时和考前会安排线下答疑。 -[@Maxwell Jay](https://github.com/MaxwellJay256)
 - 教师 2：Bao Yixin
   - 教学风格：待补充
   - 听课建议：待补充

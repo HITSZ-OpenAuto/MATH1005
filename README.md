@@ -15,7 +15,9 @@
   - 关于他的描述，在 [微积分 B](https://hoa.moe/docs/fresh-spring/math1015b/) 中已经提到过了。不会考勤。
 
     > 超级好的老师，都给我去听他的课 😭。平时和考前会安排线下答疑。 -[@Maxwell Jay](https://github.com/MaxwellJay256)
+    
     > 附议，很好的老师。 -[@Hye](https://github.com/Co-ding-Man)
+    
     > 同意，他真的对学生非常负责，他也是我到目前唯一去过线下答疑的老师。 -[@psp_dada](https://github.com/pspdada)，2024.7.12
 
 - 教师 2：包益欣

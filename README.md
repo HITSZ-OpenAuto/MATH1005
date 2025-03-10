@@ -1,7 +1,7 @@
 # MATH1005 - 复变函数与积分变换
 
-![Static Badge](https://img.shields.io/badge/(2023秋之前)考试课-red)
-![Static Badge](https://img.shields.io/badge/(2024秋之后)考查课-green)
+![Static Badge](https://img.shields.io/badge/（2023秋之前）考试课-red)
+![Static Badge](https://img.shields.io/badge/（2024秋之后）考查课-green)
 ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2.5-moccasin)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)

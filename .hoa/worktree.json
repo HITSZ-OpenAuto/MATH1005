@@ -1,0 +1,292 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2591,
+    "time": 1751765548,
+    "hash": "6c3bdb72ade056726afe474b6efdfc500c1ec082"
+  },
+  ".hoa/worktree.json": {
+    "size": 9280,
+    "time": 1751764136,
+    "hash": "5e4177a8f34e1f818f964e7c4b0414504f774b3a"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083229,
+    "hash": "d04ba8f324aa376f783b9c8142cc99f9b912fcf0"
+  },
+  "README.md": {
+    "size": 7834,
+    "time": 1741604289,
+    "hash": "fc35b05aac1efaa05b6fd6fff197efff9e97238b"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737901002,
+    "hash": "6ae72aece7ec9f0c71c20e05d1059fbded1cff2c"
+  },
+  "assignments/2021秋作业+答案/Homewor-2021Fall-01A.pdf": {
+    "size": 318050,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Homework-2021Fall-01A.pdf": {
+    "size": 318050,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Homework-2021Fall-01B.pdf": {
+    "size": 301167,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Homework-2021Fall-03.pdf": {
+    "size": 220138,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Homework02-2021Fall-A.pdf": {
+    "size": 322446,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Homework02-2021Fall-B.pdf": {
+    "size": 259262,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Solution-2021Fall-01A.pdf": {
+    "size": 406574,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Solution-2021Fall-01B.pdf": {
+    "size": 346170,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Solution-2021Fall-02A.pdf": {
+    "size": 421421,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Solution-2021Fall-02B.pdf": {
+    "size": 335754,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/2021秋作业+答案/Solution-2021Fall-03.pdf": {
+    "size": 323381,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/习题7部分题参考答案.pdf": {
+    "size": 1192530,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/习题8部分题参考答案.pdf": {
+    "size": 1239479,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/哈工大习题册复变作业-1.pdf": {
+    "size": 2469033,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/哈工大习题册复变作业-2.pdf": {
+    "size": 4680749,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/哈工大习题册复变作业-3.pdf": {
+    "size": 4986208,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/哈工大习题册复变作业-4.pdf": {
+    "size": 4617489,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/哈工大习题册复变作业-5.pdf": {
+    "size": 6444561,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/复变函数与积分变换同步训练习题1答案.pdf": {
+    "size": 506103,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/复变函数与积分变换同步训练习题2答案.pdf": {
+    "size": 471637,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/复变函数与积分变换同步训练习题3答案.pdf": {
+    "size": 467204,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/复变函数与积分变换同步训练习题4答案.pdf": {
+    "size": 508129,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/复变函数与积分变换同步训练习题5答案.pdf": {
+    "size": 598056,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/复变函数与积分变换同步训练习题6部分答案.pdf": {
+    "size": 260671,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "assignments/复变函数与积分变换同步训练习题7部分答案.pdf": {
+    "size": 261895,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737901002,
+    "hash": "6ae72aece7ec9f0c71c20e05d1059fbded1cff2c"
+  },
+  "exams/2018秋季复变函数与积分变换期末试题答案.pdf": {
+    "size": 306212,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2019秋季复变函数与积分变换期末试题.pdf": {
+    "size": 231809,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2019秋季复变函数与积分变换期末试题答案.pdf": {
+    "size": 274768,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2020秋季复变函数与积分变换期末试题.pdf": {
+    "size": 259020,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2020秋季复变函数与积分变换期末试题答案.pdf": {
+    "size": 305161,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2021秋季复变函数与积分变换期末试题.pdf": {
+    "size": 295106,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2021秋季复变函数与积分变换期末试题答案.pdf": {
+    "size": 342581,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2022复变模拟题.pdf": {
+    "size": 71655,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2022复变模拟题答案.pdf": {
+    "size": 165228,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2022秋季复变函数与积分变换期末试题答案.pdf": {
+    "size": 378999,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/2023秋季复变函数与积分变换期末试题.pdf": {
+    "size": 568608,
+    "time": 1737560437,
+    "hash": "6064a5f861ae58c5a5d5cc1ce217da0fcac33a3a"
+  },
+  "exams/2023秋季复变函数与积分变换期末试题答案.pdf": {
+    "size": 365464,
+    "time": 1737560437,
+    "hash": "6064a5f861ae58c5a5d5cc1ce217da0fcac33a3a"
+  },
+  "exams/README.md": {
+    "size": 235,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/复变函数与积分变换综合试题.pdf": {
+    "size": 10972350,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "exams/复变函数与积分变换综合试题答案.pdf": {
+    "size": 7602579,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737901002,
+    "hash": "6ae72aece7ec9f0c71c20e05d1059fbded1cff2c"
+  },
+  "materials/20231210-复变函数讲义-Hye.pdf": {
+    "size": 6985119,
+    "time": 1737560437,
+    "hash": "6064a5f861ae58c5a5d5cc1ce217da0fcac33a3a"
+  },
+  "materials/SteinandShakarchiComplexAnalysis.pdf": {
+    "size": 323304,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "materials/史济怀 - 复变函数.pdf": {
+    "size": 8084434,
+    "time": 1701183759,
+    "hash": "7e5f50349e52dbfe0b45e43b142af371e87be971"
+  },
+  "materials/复变函数简明教程的简明教程.pdf": {
+    "size": 1611252,
+    "time": 1702264356,
+    "hash": "500f944230fa81ee1886f6a5a14efbebfceeae89"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737901002,
+    "hash": "6ae72aece7ec9f0c71c20e05d1059fbded1cff2c"
+  },
+  "notes/2023复变笔记_psp.pdf": {
+    "size": 27491808,
+    "time": 1737560437,
+    "hash": "6064a5f861ae58c5a5d5cc1ce217da0fcac33a3a"
+  },
+  "notes/2024复变笔记_zww.pdf": {
+    "size": 3061718,
+    "time": 1737560437,
+    "hash": "6064a5f861ae58c5a5d5cc1ce217da0fcac33a3a"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737901002,
+    "hash": "6ae72aece7ec9f0c71c20e05d1059fbded1cff2c"
+  },
+  "slides/2024复变函数与积分变换讲义-高瑜老师.pdf": {
+    "size": 34457176,
+    "time": 1737560437,
+    "hash": "6064a5f861ae58c5a5d5cc1ce217da0fcac33a3a"
+  },
+  "slides/2024复变函数与积分变换讲义修正(第15-16讲)-高瑜老师.pdf": {
+    "size": 3059278,
+    "time": 1737560437,
+    "hash": "6064a5f861ae58c5a5d5cc1ce217da0fcac33a3a"
+  },
+  "tag.txt": {
+    "size": 79,
+    "time": 1699456309,
+    "hash": "e0ad89f82d26996176fdfc7274552b1dce08fe23"
+  }
+}

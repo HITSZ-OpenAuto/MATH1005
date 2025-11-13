@@ -1,0 +1,129 @@
+ID: "MATH1005"
+SimilarID: []
+Name: "复变函数与积分变换"
+CourseProperty:
+  Major:
+    - Year: "2019_2020"
+      Name: [ "通信", "机械", "电气", "自动化" ]
+      Degree: "本"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: 40
+  
+  Major:
+    - Year: "2020_2021"
+      Name: [ "电信", "自动化", "机械", "电气" ]
+      Degree: "本"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: 40
+
+  Major:
+    - Year: "2021_2022"
+      Name: [ "通信", "通信（第二学位）", "电气", "光电", "能源", "机械", "自动化" ]
+      Degree: "本"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: 40
+
+  Major:
+    - Year: "2022_2023"
+      Name: [ "通信", "通信（第二学位）", "光电", "自动化", "机械", "电气", "能源" ]
+      Degree: "本"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: 40
+
+  Major:
+    - Year: "2023_2024"
+      Name: [ "数学", "通信", "光电", "自动化", "电气", "能源" ]
+      Degree: "本"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: 40
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（自动化与电气工程）", "工科试验班（计算机与电子通信）", "人工智能班" ]
+      Degree: "本"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: 32
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "工科试验班（计算机与电子通信）", "工科试验班（计算机与电子通信拔尖班）", "人工智能班", "电气工程及其自动化", "工科试验班（机器人与智能装备）", "工科试验班（空天科技）" ]
+      Degree: "本"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: 32

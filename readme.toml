@@ -7,62 +7,53 @@ description = """
 2025.1 补充：包益欣老师已经不在深圳任教，但是包老师对深圳校区作出很大贡献，故保留相关评价。
 """
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "包益欣"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 教学风格：老师讲得很详细，会有例题哦；讲课速度适中，有一点点小慢。
 听课建议：嫌磨叽的同学可以自学了，不必细听；课上例题搞懂，作业就很好做。
-
 我上课的时候，包包只点了两次名（首末），平时分基本看作业，大家都差上下两三分；最爱包包超绝纯手写加长板书了！
 """
 author = { name = "HalfCooler", link = "https://github.com/NeptuneZhao/", date = "2025-09" }
-
-[[lecturers]]
+[[lecturers.items]]
 name = "高瑜"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 教学风格：纯板书，上课后会把他的讲义发到群里。「slides/2024复变函数与积分变换讲义-高瑜老师.pdf」
 听课建议：强烈听课，老师上课真的特别好。
-
 特别好的老师，老师上课逻辑特别清晰，板书非常有条理，而且老师也特别有耐心，学生听不懂时他会停下来重新解释。而且课后也会给同学详细解答疑问。
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01" }
-
-[[lecturers]]
+[[lecturers.items]]
 name = "张茜"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 教学风格：ppt做的很详细。
 听课建议：对计科学生而言没必要上课，平时分只看作业，没有点名小测。
 """
 author = { name = "海边的星空", link = "", date = "2025-01" }
-
-[[lecturers]]
+[[lecturers.items]]
 name = "包革军"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 > [!NOTE]
 > 2025.1 补充：包老师已经不在深圳任教，但是包老师对深圳校区作出很大贡献，仍保留。
-
 校用教材《复变函数与积分变换 简明教程》的编者之一。不会考勤。
 超级好的老师，都给我去听他的课。平时和考前会安排线下答疑。
 """
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" }
-
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "附议，很好的老师。"
 author = { name = "Hye", link = "https://github.com/Co-ding-Man", date = "" }
-
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "同意，他真的对学生非常负责，他也是我到目前唯一去过线下答疑的老师。"
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-07" }
-
-
 [[sections]]
 title = "教材"
 

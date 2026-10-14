@@ -1,10 +1,5 @@
 # MATH1005 - 复变函数与积分变换
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期末考试80%](https://img.shields.io/badge/期末考试-80%25-wheat)
 
 （2023秋之前）本课程为考试课；（2024秋之后）改为考查课。
 2025.1 补充：包益欣老师已经不在深圳任教，但是包老师对深圳校区作出很大贡献，故保留相关评价。

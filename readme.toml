@@ -1,13 +1,13 @@
 course_name = "复变函数与积分变换"
-repo_type = "normal"
 course_code = "MATH1005"
-
+repo_type = "normal"
 description = """
 （2023秋之前）本课程为考试课；（2024秋之后）改为考查课。
 2025.1 补充：包益欣老师已经不在深圳任教，但是包老师对深圳校区作出很大贡献，故保留相关评价。
 """
 
 [lecturers]
+
 [[lecturers.items]]
 name = "包益欣"
 
@@ -18,6 +18,7 @@ content = """
 我上课的时候，包包只点了两次名（首末），平时分基本看作业，大家都差上下两三分；最爱包包超绝纯手写加长板书了！
 """
 author = { name = "HalfCooler", link = "https://github.com/NeptuneZhao/", date = "2025-09" }
+
 [[lecturers.items]]
 name = "高瑜"
 
@@ -28,6 +29,7 @@ content = """
 特别好的老师，老师上课逻辑特别清晰，板书非常有条理，而且老师也特别有耐心，学生听不懂时他会停下来重新解释。而且课后也会给同学详细解答疑问。
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01" }
+
 [[lecturers.items]]
 name = "张茜"
 
@@ -37,6 +39,7 @@ content = """
 听课建议：对计科学生而言没必要上课，平时分只看作业，没有点名小测。
 """
 author = { name = "海边的星空", link = "", date = "2025-01" }
+
 [[lecturers.items]]
 name = "包革军"
 
@@ -48,12 +51,15 @@ content = """
 超级好的老师，都给我去听他的课。平时和考前会安排线下答疑。
 """
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" }
+
 [[lecturers.items.reviews]]
 content = "附议，很好的老师。"
 author = { name = "Hye", link = "https://github.com/Co-ding-Man", date = "" }
+
 [[lecturers.items.reviews]]
 content = "同意，他真的对学生非常负责，他也是我到目前唯一去过线下答疑的老师。"
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "2024-07" }
+
 [[sections]]
 title = "教材"
 
@@ -64,7 +70,6 @@ content = """
 - **复变函数**（史济怀、刘太顺 / 中国科技大学出版社 / 1998.12 / textbook）
 - **Complex Analysis**（Stein & Shakarchi / textbook）
 """
-
 
 [[sections]]
 title = "在线资源"
